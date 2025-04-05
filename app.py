@@ -8,7 +8,6 @@ Original file is located at
 """
 
 # app.py
-!pip install streamlit yfinance
 import streamlit as st
 import yfinance as yf
 import pandas as pd
