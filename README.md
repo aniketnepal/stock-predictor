@@ -28,7 +28,7 @@ Libraries
 
  Live Demo
 Deployed on Render
-→ Live App: https://stock-price-predictor.onrender.com (replace with your actual link)
+→ Live App: https://stock-predictor-s3j6.onrender.com
 
 
 How it Works
